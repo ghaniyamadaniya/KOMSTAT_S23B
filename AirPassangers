@@ -1,0 +1,3 @@
+head(AirPassangers,10)
+tail(AirPassangers,10)
+str(AirPassangers)
