@@ -1,0 +1,2 @@
+# KOMSTAT_S23B
+komstat 122
